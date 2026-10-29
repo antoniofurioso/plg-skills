@@ -48,4 +48,3 @@ cp -r plg-skills/skills/* ~/.claude/skills/
 
 ## License
 MIT for the skill files in this repo. The underlying frameworks and book content belong to their authors.
-# plg-skills
